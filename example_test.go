@@ -5,7 +5,7 @@
 package consistent_test
 
 import (
-	"../consistent"
+	"github.com/mia0x75/consistent"
 	"fmt"
 	"log"
 )
